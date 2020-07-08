@@ -5,3 +5,5 @@ Na duas últimas semanas prestigiei a 11ª Semana da Licenciatura em Matemática
 No que diz respeito a análise dos dados, aprendi que o gráfico log-log (ou di-log) é uma boa alternativa para avaliar se uma região está (ou não) controlando o vírus. Dessa forma, resolvi por em prática os conhecimentos obtidos sobre esse tipo de gráfico. Destaco que o objetivo deste post foi avaliar a situação epidemiológica de alguns países e dos estados da Região Nordeste do Brasil.
 
 O post completo pode ser acessado clicando [aqui](https://www.thiagovalentim.me/post/avaliacao-da-evolucao-da-covid-19-via-grafico-log-log/).
+
+![](https://github.com/ThiagoValentimMarques/loglog/blob/master/Gr%C3%A1ficos/Figura%202.png?raw=true)
